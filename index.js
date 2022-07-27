@@ -1,3 +1,3 @@
 const { Client } = require('discord.js');
 
-client.login("OTM3MDYzMjM1NjEyNDUwODI3.G7sAK1.-PTvbXKb2-MutLp4TL9PQHrdHfwV1tlDFbtul0")
+client.login("MTAwMTk3MTIwMzQ3MDI3NDY1MQ.GtYLyv.OoVE8GIJjhoa6D6qJWdE5_gxObyj-6E25bCgj8")
