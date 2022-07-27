@@ -1,1 +1,1 @@
-worker: node Ano.js
+worker: node index.js
