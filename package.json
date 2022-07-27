@@ -1,7 +1,7 @@
 {
-  "name": "v13musicbot",
+  "name": "ANOxDevV",
   "version": "1.0.0",
-  "description": "A Discord Music Bot built with latest Discord Voice Features",
+  "description": "Ano Playing",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
