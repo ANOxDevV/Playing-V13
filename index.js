@@ -25,7 +25,7 @@ client.on("ready", () => {
   );
   let statuses = [`ANOxDevV`];
   setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    let PLAYING = statuses[Math.floor(Math.random() * statuses.length)];
     client.user.setActivity(PLAYING, {      
     type:"PLAYING", 
     url: "https://www.twitch.tv/faith"
