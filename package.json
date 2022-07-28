@@ -9,8 +9,4 @@
   "author": "ANOxDevV",
   "dependencies": {
     "discord.js": "^13.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ANOxDevV/Playing-V13.git"
   }
