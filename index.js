@@ -41,4 +41,4 @@ client.on("ready", () => {
 
 
 //////ANOxDevV
-client.login("MTAwMTk3MTIwMzQ3MDI3NDY1MQ.Gjpj2e.OEMbdCgSvTkGw6NBBClEggU20KpmoBroavxWu4");
+client.login("MTAwMTk3MTIwMzQ3MDI3NDY1MQ.GkhyHa._6NaDbuRbQqxTF39OsdwMdRa3TGXNUAPBL5els");
