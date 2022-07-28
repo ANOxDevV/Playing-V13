@@ -30,7 +30,7 @@ client.on("ready", () => {
     type:"PLAYING", 
     url: "https://www.twitch.tv/faith"
     });
-  }, 9000);
+  }, 2000);
 });
 //////////coded by ANO
 
