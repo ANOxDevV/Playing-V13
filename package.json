@@ -1,16 +1,17 @@
 {
   "name": "ANOxDevV",
-  "version": "1.0.0",
-  "description": "Ano Playing",
+  "version": "1.5.5",
+  "description": "Official Discord Bot Of Sky High Esports",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "ANOxDevV",
-  "license": "MIT",
+  "author": "AnoXDevV",
   "dependencies": {
-    "discord.js": "^13.1.0"
+    "canvas": "^2.8.0",
+    "discord.js": "^13.1.0",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANOxDevV/Playing-V13.git"
   }
-}
