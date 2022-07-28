@@ -31,4 +31,4 @@ client.on("ready", () => {
 
 
 //////ANOxDevV
-client.login("Token Is Here");
+client.login("");
