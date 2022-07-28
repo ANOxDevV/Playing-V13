@@ -17,6 +17,28 @@ const client = new Client({
 });
 module.exports = client;
 client.commands = new Collection();
+//////////coded by ANO
+
+client.on("ready", () => {
+  console.log(
+    `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
+  );
+  let statuses = [`ANOxDevV`];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    client.user.setActivity(STREAMING, {      
+    type:"Playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 9000);
+});
+//////////coded by ANO
+
+client.on("ready", () => {
+  var join = client.channels.get(""); /// id voice
+  if (join) join.join();
+});
 
 
+//////ANOxDevV
 client.login("MTAwMTk3MTIwMzQ3MDI3NDY1MQ.Gjpj2e.OEMbdCgSvTkGw6NBBClEggU20KpmoBroavxWu4");
