@@ -1,14 +1,17 @@
 {
-  "name": "discord.js-v13-Playing",
+  "name": "discord-js-v13-tutorials",
   "version": "1.0.0",
-  "description": "Playing Discord.js v13 Example Bot by ANOxDevV",
+  "description": "Hey v13 is coming soon.. so i made this handler and i also added some main commands like help and ping commands so you can self host this bot",
   "main": "index.js",
-  "author": "ANOxDevV",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
+  "author": "ANOxDevV",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^13.3.1"
+    "discord.js": "^13.0.0" 
+  },
+  "devDependencies": {
+    "node": "^16.6.1"
   }
