@@ -31,4 +31,4 @@ client.on("ready", () => {
 
 
 //////ANOxDevV
-client.login("MTAwMTk3MTIwMzQ3MDI3NDY1MQ.GkhyHa._6NaDbuRbQqxTF39OsdwMdRa3TGXNUAPBL5els");
+client.login("Token Is Here");
