@@ -1,12 +1,18 @@
 {
-  "name": "ANOxDevV",
-  "version": "1.5.5",
-  "description": "Official Discord Bot Of Sky High Esports",
+  "name": "discord.js-v13-Playing",
+  "version": "1.0.0",
+  "description": "Playing Discord.js v13 Example Bot by ANOxDevV",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "ANOxDevV",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "license": "ISC",
   "dependencies": {
-    "discord.js": "^13.1.0"
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "glob": "^7.2.0",
+    "chalk": "^4.1.0",
+    "fs": "^0.0.1-security"
   }
