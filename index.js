@@ -19,19 +19,9 @@ module.exports = client;
 client.commands = new Collection();
 //////////coded by ANO
 
-client.on("ready", () => {
-  console.log(
-    `Playing V13 Coded By ANOxDevV Online`
-  );
-  let statuses = [`ANOxDevV`];
-  setInterval(function() {
-    let PLAYING = statuses[Math.floor(Math.random() * statuses.length)];
-    client.user.setActivity(PLAYING, {      
-    type:"PLAYING", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
+client.on('ready', () => {
+    client.user.setActivity(`ANOxDevV`,{ type: 'PLAYING' });
+})
 //////////coded by ANO
 
 client.on("ready", () => {
