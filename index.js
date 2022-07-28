@@ -21,7 +21,7 @@ client.commands = new Collection();
 
 client.on("ready", () => {
   console.log(
-    `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
+    `Playing V13 Coded By ANOxDevV Online`
   );
   let statuses = [`ANOxDevV`];
   setInterval(function() {
