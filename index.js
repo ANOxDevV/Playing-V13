@@ -25,10 +25,10 @@ client.on('ready', () => {
 //////////coded by ANO
 
 client.on("ready", () => {
-  var join = client.channels.get(""); /// id voice
+  var join = client.channels.get("993264300682657932"); /// id voice
   if (join) join.join();
 });
 
 
 //////ANOxDevV
-client.login("");
+client.login("NjQ1MzMzNjU1Mzk2NDE3NTQ3.GMWY2H.Lpd-io9DC-9BtS2KjTlQs0c6Owcyp4yALuHUMg");
